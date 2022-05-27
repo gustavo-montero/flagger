@@ -1,5 +1,6 @@
 namespace: test
 resources:
+  - namespace.yaml
   - service.yaml
   - deployment.yaml
 
