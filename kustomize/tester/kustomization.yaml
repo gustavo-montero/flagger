@@ -1,4 +1,4 @@
-namespace: test
+namespace: default
 resources:
   - service.yaml
   - deployment.yaml
